@@ -1,6 +1,7 @@
 ## Welcome 
 
 hi i'm dodoGames!, i am a kind hearted person who loves to test random stuff around the internet and making new friends with people
+i'm also aoi.js coder since early 2022 and overall just a programmar like any others
 
 
 
@@ -11,13 +12,19 @@ hi i'm dodoGames!, i am a kind hearted person who loves to test random stuff aro
 | :---         |     :---:      |          ---: |
 | [Dodo-Bot](https://github.com/DodoGames7/Dodo-Bot)   | Active     | 1.7.0    |
 | [Kirbo](https://github.com/DodoGames7/Kirbo)     | Active       | 3.0.1      |
+| Epik-Man   | on Hiatus until further notice | 1.0.3 |
+
+
+| Other | Description |
+| --- | --- |
+| [aoi.js docs by dodoGames](https://github.com/DodoGames7/aoi.js-docs-by-dodoGames) | a attempt to make aoi developers's life a lot easier with useful guides |
+
 
 
 # Contributor at 
-[SusOS](https://github.com/SusOS-Official/SusOS)
 
+*will list if there any*
 
-`description:` a os inspired by among us sus memes, made by [AppleRobloxGames](https://applerobloxgames-team.github.io/applerobloxgames-website/Aboutme.html)
 
 # Contact information
 
