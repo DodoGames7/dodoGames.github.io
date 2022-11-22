@@ -5,21 +5,13 @@ hi i'm dodoGames!, i am a kind hearted person who loves to test random stuff aro
 
 
 # active projects
-[Discord-Bot-Token-Reset](https://github.com/DodoGames7/discord-bot-token-reset)
 
 
-`description:` a public forked project to reset leaked discord bot tokens from popular hosting platforms by leaking them via token.txt file!
+| Discord-Bots | Status | latest release |
+| :---         |     :---:      |          ---: |
+| [Dodo-Bot](https://github.com/DodoGames7/Dodo-Bot)   | Active     | 1.7.0    |
+| [Kirbo](https://github.com/DodoGames7/Kirbo)     | Active       | 3.0.1      |
 
-[Dodo Bot](https://github.com/DodoGames7/Dodo-Bot)
-
-
-`description:` an personal aoi.js v5 multi purpose bot
-
-
-[dodoGames.js](https://github.com/DodoGames7/dodoGames.js)
-
-
-`description:` an modified version of aoi.js v5 but with djs v14 support!
 
 # Contributor at 
 [SusOS](https://github.com/SusOS-Official/SusOS)
