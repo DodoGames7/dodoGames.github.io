@@ -13,6 +13,7 @@ i'm also aoi.js coder since early 2022 and overall just a programmar like any ot
 | [Dodo-Bot](https://github.com/DodoGames7/Dodo-Bot)   | Active     | 1.7.0    |
 | [Kirbo](https://github.com/DodoGames7/Kirbo)     | Active       | 3.0.1      |
 | Epik-Man   | on Hiatus until further notice | 1.0.3 |
+| [Askers](https://github.com/DodoGames7/Askers)      | Active | 1.0.0 (Beta) |
 
 
 | Other | Description |
