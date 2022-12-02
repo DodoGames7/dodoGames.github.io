@@ -24,7 +24,9 @@ i'm also aoi.js coder since early 2022 and overall just a programmar like any ot
 
 # Contributor at 
 
-*will list if there any*
+| Discord-Bots | description | Owner
+| :---         |     :---:  | --- |
+| [Minecrafter](https://discord.com/oauth2/authorize?client_id=1001857256805109852&scope=bot%20applications.commands&permissions=355392) | a minecraft economy bot! | Begula |
 
 
 # Contact information
