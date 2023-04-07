@@ -13,12 +13,13 @@ i'm also aoi.js coder since early 2022 and overall just a programmar like any ot
 | [Dodo-Bot](https://github.com/DodoGames7/Dodo-Bot)   | Active     | 1.7.0    |
 | [Kirbo](https://github.com/DodoGames7/Kirbo)     | Active       | 3.0.2      |
 | Epik-Man   | on Hiatus until further notice | 1.0.3 |
-| [Askers](https://github.com/DodoGames7/Askers)      | Active | 1.0.2-patched |
+| [Askers](https://github.com/DodoGames7/Askers)      | Active | 1.0.2-extra |
 
 
 | Other | Description |
 | --- | --- |
 | [aoi.js docs by dodoGames](https://github.com/DodoGames7/aoi.js-docs-by-dodoGames) | a attempt to make aoi developers's life a lot easier with useful guides |
+| [@dodoGames/aoiplugins](https://github.com/dodoGames-s-Studios/dodoplugins.js) | an package dedicated to aoi.js v6 which loads few custom supposedly special functions |
 
 
 
