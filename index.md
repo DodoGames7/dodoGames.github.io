@@ -19,7 +19,7 @@ i'm also aoi.js coder since early 2022 and overall just a programmar like any ot
 | Other | Description |
 | --- | --- |
 | [aoi.js docs by dodoGames](https://github.com/DodoGames7/aoi.js-docs-by-dodoGames) | a attempt to make aoi developers's life a lot easier with useful guides |
-| [@dodoGames/aoiplugins](https://github.com/dodoGames-s-Studios/dodoplugins.js) | an package dedicated to aoi.js v6 which loads few custom supposedly special functions |
+| [dodoplugins.js](https://github.com/dodoGames-s-Studios/dodoplugins.js) | an package dedicated to aoi.js v6 which loads few custom supposedly special functions |
 
 
 
