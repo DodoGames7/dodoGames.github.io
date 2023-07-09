@@ -1,7 +1,7 @@
 ## Welcome 
 
-hi i'm dodoGames!, i am a kind hearted person who loves to test random stuff around the internet and making new friends with people
-i'm also aoi.js coder since early 2022 and overall just a programmar like any others
+Hi, i'm dodoGames! I am a kind hearted person who loves to test random stuff around the internet and making new friends with people!
+I'm also aoi.js coder since early 2022 and overall just a programmar like any others.
 
 
 
@@ -10,16 +10,16 @@ i'm also aoi.js coder since early 2022 and overall just a programmar like any ot
 
 | Discord-Bots | Status | latest release |
 | :---         |     :---:      |          ---: |
-| [Dodo-Bot](https://github.com/DodoGames7/Dodo-Bot)   | Active     | 1.7.0    |
+| [Dodo-Bot](https://github.com/DodoGames7/Dodo-Bot)   | Active     | 2.0.0-beta.4    |
 | [Kirbo](https://github.com/DodoGames7/Kirbo)     | Active       | 3.0.2      |
 | Epik-Man   | on Hiatus until further notice | 1.0.3 |
-| [Askers](https://github.com/DodoGames7/Askers)      | Active | 1.0.2-extra |
+| [Askers](https://github.com/DodoGames7/Askers)      | Active | 1.0.2-3 |
 
 
 | Other | Description |
 | --- | --- |
-| [aoi.js docs by dodoGames](https://github.com/DodoGames7/aoi.js-docs-by-dodoGames) | a attempt to make aoi developers's life a lot easier with useful guides |
-| [dodoplugins.js](https://github.com/dodoGames-s-Studios/dodoplugins.js) | an package dedicated to aoi.js v6 which loads few custom supposedly special functions |
+| [aoi.js docs by dodoGames](https://github.com/DodoGames7/aoi.js-docs-by-dodoGames) | A attempt to make aoi developers's life a lot easier with useful guides! |
+| [dodoplugins.js](https://www.npmjs.com/package/dodoplugins.js) | An package dedicated to aoi.js v6 which loads functions to simplify bot development. |
 
 
 
@@ -27,7 +27,7 @@ i'm also aoi.js coder since early 2022 and overall just a programmar like any ot
 
 | Other | description | Owner
 | :---         |     :---:  | --- |
-| [Dodo Bot for Linux](https://github.com/InikoMatthewPro/discord-dodobot-on-linux) | an way to host Dodo Bot on linux devices | InikoMatthewPro |
+| [Dodo Bot for Linux](https://github.com/InikoMatthewPro/discord-dodobot-on-linux) | An way to host Dodo Bot on linux devices. | InikoMatthewPro |
 
 
 
